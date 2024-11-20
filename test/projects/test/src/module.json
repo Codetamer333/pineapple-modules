@@ -1,0 +1,10 @@
+{
+    "name": "test",
+    "title": "test",
+    "description": "An example module!",
+    "version": "1.0",
+    "author": "",
+    "firmware_required": "1.0.0",
+    "devices": ["wifipineapplemk7"]
+}
+
